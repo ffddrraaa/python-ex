@@ -1,0 +1,50 @@
+﻿Campaign;Date;Time Start;Time End;Price Group
+KD;11-Aug;00.00;08.00;Under 99k
+KD;11-Aug;08.00;12.00;Under 99k
+KD;11-Aug;08.00;12.00;Under 99k
+KD;11-Aug;08.00;12.00;Above 99k
+KD;11-Aug;12.00;16.00;Under 99k
+KD;11-Aug;12.00;16.00;Under 99k
+KD;11-Aug;12.00;16.00;Under 99k
+KD;11-Aug;16.00;23.59;Under 99k
+KD;11-Aug;16.00;23.59;Under 99k
+KD;11-Aug;16.00;23.59;Under 99k
+KD DT;11-Aug;00.00;08.00;Serba 20k
+KD DT;11-Aug;00.00;08.00;Under 99k
+KD DT;11-Aug;00.00;08.00;Under 99k
+KD DT;11-Aug;00.00;08.00;Under 99k
+KD DT;11-Aug;00.00;08.00;Above 99k
+KD DT;11-Aug;00.00;08.00;Above 99k
+KD DT;11-Aug;08.00;12.00;Diskon 90%
+KD DT;11-Aug;08.00;12.00;Under 99k
+KD DT;11-Aug;08.00;12.00;Under 99k
+KD DT;11-Aug;08.00;12.00;Under 99k
+KD DT;11-Aug;08.00;12.00;Above 99k
+KD DT;11-Aug;08.00;12.00;Above 99k
+KD DT;11-Aug;12.00;16.00;Diskon 90%
+KD DT;11-Aug;12.00;16.00;Under 99k
+KD DT;11-Aug;12.00;16.00;Under 99k
+KD DT;11-Aug;12.00;16.00;Under 99k
+KD DT;11-Aug;12.00;16.00;Above 99k
+KD DT;11-Aug;16.00;23.59;Under 99k
+DT Kilat;11-Aug;08.00;11.59;Below 99k
+DT Kilat;11-Aug;08.00;11.59;Below 99k
+DT Kilat;11-Aug;08.00;11.59;Below 99k
+DT Kilat;11-Aug;08.00;11.59;Below 99k
+DT Kilat;11-Aug;08.00;11.59;Above 99K
+DT Kilat;11-Aug;08.00;11.59;Above 99K
+DT Kilat;11-Aug;08.00;11.59;Above 99K
+DT Kilat;11-Aug;12.00;15.59;Below 99k
+DT Kilat;11-Aug;12.00;15.59;Below 99k
+DT Kilat;11-Aug;12.00;15.59;Below 99k
+DT Kilat;11-Aug;12.00;15.59;Below 99k
+DT Kilat;11-Aug;12.00;15.59;Above 99K
+DT Kilat;11-Aug;12.00;15.59;Above 99K
+DT Kilat;11-Aug;12.00;15.59;Above 99K
+DT Kilat;11-Aug;16.00;23.59;Below 99k
+DT Kilat;11-Aug;16.00;23.59;Below 99k
+DT Kilat;11-Aug;16.00;23.59;Below 99k
+DT Kilat;11-Aug;16.00;23.59;Below 99k
+DT Kilat;11-Aug;16.00;23.59;Above 99K
+DT Kilat;11-Aug;16.00;23.59;Above 99K
+DT Kilat;11-Aug;16.00;23.59;Above 99K
